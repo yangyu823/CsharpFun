@@ -1,0 +1,6 @@
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\bin\Debug\Sorted Search.exe.config
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\bin\Debug\Sorted Search.exe
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\bin\Debug\Sorted Search.pdb
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\obj\Debug\Sorted Search.csproj.CoreCompileInputs.cache
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\obj\Debug\Sorted Search.exe
+C:\Users\yangy\source\repos\Sorted Search\Sorted Search\obj\Debug\Sorted Search.pdb

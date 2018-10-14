@@ -1,0 +1,6 @@
+C:\Users\yangy\source\repos\Train Composition\Train Composition\bin\Debug\Train Composition.exe.config
+C:\Users\yangy\source\repos\Train Composition\Train Composition\bin\Debug\Train Composition.exe
+C:\Users\yangy\source\repos\Train Composition\Train Composition\bin\Debug\Train Composition.pdb
+C:\Users\yangy\source\repos\Train Composition\Train Composition\obj\Debug\Train Composition.csproj.CoreCompileInputs.cache
+C:\Users\yangy\source\repos\Train Composition\Train Composition\obj\Debug\Train Composition.exe
+C:\Users\yangy\source\repos\Train Composition\Train Composition\obj\Debug\Train Composition.pdb

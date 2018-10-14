@@ -1,0 +1,7 @@
+C:\Users\yangy\source\repos\TestPrep\TestPrep\bin\Debug\TestPrep.exe.config
+C:\Users\yangy\source\repos\TestPrep\TestPrep\bin\Debug\TestPrep.exe
+C:\Users\yangy\source\repos\TestPrep\TestPrep\bin\Debug\TestPrep.pdb
+C:\Users\yangy\source\repos\TestPrep\TestPrep\obj\Debug\TestPrep.csprojResolveAssemblyReference.cache
+C:\Users\yangy\source\repos\TestPrep\TestPrep\obj\Debug\TestPrep.csproj.CoreCompileInputs.cache
+C:\Users\yangy\source\repos\TestPrep\TestPrep\obj\Debug\TestPrep.exe
+C:\Users\yangy\source\repos\TestPrep\TestPrep\obj\Debug\TestPrep.pdb

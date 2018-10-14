@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Ada template
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+TrainComposition.iml

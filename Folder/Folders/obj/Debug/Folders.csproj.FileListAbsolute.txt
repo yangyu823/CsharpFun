@@ -1,0 +1,7 @@
+C:\Users\yangy\source\repos\Folders\Folders\bin\Debug\Folders.exe.config
+C:\Users\yangy\source\repos\Folders\Folders\bin\Debug\Folders.exe
+C:\Users\yangy\source\repos\Folders\Folders\bin\Debug\Folders.pdb
+C:\Users\yangy\source\repos\Folders\Folders\obj\Debug\Folders.csproj.CoreCompileInputs.cache
+C:\Users\yangy\source\repos\Folders\Folders\obj\Debug\Folders.exe
+C:\Users\yangy\source\repos\Folders\Folders\obj\Debug\Folders.pdb
+C:\Users\yangy\source\repos\Folders\Folders\obj\Debug\Folders.csprojResolveAssemblyReference.cache

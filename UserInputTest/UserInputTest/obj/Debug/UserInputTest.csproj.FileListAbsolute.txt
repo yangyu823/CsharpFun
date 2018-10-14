@@ -1,0 +1,7 @@
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\bin\Debug\UserInputTest.exe.config
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\bin\Debug\UserInputTest.exe
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\bin\Debug\UserInputTest.pdb
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\obj\Debug\UserInputTest.csprojResolveAssemblyReference.cache
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\obj\Debug\UserInputTest.csproj.CoreCompileInputs.cache
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\obj\Debug\UserInputTest.exe
+C:\Users\yangy\source\repos\UserInputTest\UserInputTest\obj\Debug\UserInputTest.pdb
